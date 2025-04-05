@@ -6,3 +6,7 @@ classification:
   mushrooms: D:\projects\spbu-ai-fundamentals\data\classification/mushrooms.csv
 clustering:
   flowcytometry: D:\projects\spbu-ai-fundamentals\data\flow_cytometry
+house_prices_linear_regression_hw:
+  train_dataset: D:\projects\spbu-ai-fundamentals\data\house_prices_linear_regression_hw\train_hw.csv
+  test_dataset: D:\projects\spbu-ai-fundamentals\data\house_prices_linear_regression_hw\test_hw.csv
+  results: D:\projects\spbu-ai-fundamentals\homeworks\results\submission.csv
